@@ -7,6 +7,7 @@
   "name": "easyrecurly",
   "description": "A simple and lightweight interface wrapper for Recurly",
   "version": "0.0.6",
+  "license": "",
   "keywords": [
     "recurly api",
     "recurring api",
@@ -28,6 +29,6 @@
     "extend": "2.0.0",
     "request": "2.55.0",
     "xml2js": "0.4.8",
-    "js2xml": "1.0.1"
+    "js2xml": "1.0.3"
   }
 }
